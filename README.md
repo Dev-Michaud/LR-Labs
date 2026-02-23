@@ -6,7 +6,7 @@ Soluções digitais de excelência em desenvolvimento web.
 
 Transformamos demandas tecnológicas em ativos digitais estratégicos. Arquitetura moderna, performance escalável e experiência do usuário impecável.
 
-## 📋 Serviços
+## 📋 Serviçoss
 
 - Construção de Sites
 - Sistemas de Pagamento
