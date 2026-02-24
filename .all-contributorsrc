@@ -1,0 +1,35 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Dev-Michaud",
+      "name": "Luis Eduardo Carvalho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/YOUR_ID?v=4",
+      "profile": "https://github.com/Dev-Michaud",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "zzRonald",
+      "name": "Ronald Felipe Carvalho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/RONALD_ID?v=4",
+      "profile": "https://github.com/zzRonald",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "LR-Labs",
+  "projectOwner": "Dev-Michaud",
+  "repoType": "github", 
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
