@@ -19,7 +19,7 @@ export default function Projects() {
     {
       title: 'ContabilidadeAPI',
       description: 'Plataforma robusta de gestão contábil desenvolvida com tecnologias modernas. Sistema completo para controle de receitas, despesas, relatórios financeiros e integração com múltiplos formatos de dados.',
-      technologies: ['Node.js', 'Express', 'PostgreSQL', 'REST API', 'JWT Auth'],
+      technologies: ['.Net/ASP.Net Core', 'C#', 'Entity', 'SQL Server', 'REST API', 'JWT Auth'],
       image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=600&fit=crop',
       github: 'https://github.com/zzRonald/tcc-contabilidade-api',
       live: '#',
